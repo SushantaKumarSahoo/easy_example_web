@@ -1,6 +1,6 @@
 // SDK basic configuration
 var config = {
-  appID: 0000000,
+  appID: 444263328,
   serverURL: "wss://webliveroom" + 0000000 + "-api.zegocloud.com/ws",
   tokenServerUrl: "https://xxxxxx.herokuapp.com",
   targetRoomID: "",
